@@ -18,4 +18,4 @@ Capture each scenario as:
 Each feature is in a different markdown file.
 This template has one blank starting point.
 
-As always, avoid passive voice :)
+As always, avoid passive voice :
